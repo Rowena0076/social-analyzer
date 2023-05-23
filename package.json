@@ -26,7 +26,7 @@
     "lodash": ">=4.17.21",
     "most-common-words-by-language": "3.0.10",
     "n": "^8.2.0",
-    "prettier": "2.7.1",
+    "prettier": "2.8.8",
     "pretty-error": "4.0.0",
     "sanitize-html": ">=2.7.0",
     "selenium-webdriver": "4.3.0",
