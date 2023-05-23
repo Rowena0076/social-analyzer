@@ -36,7 +36,7 @@
     "tesseract.js": "2.1.5",
     "wink-tokenizer": "5.3.0",
     "wordsninja": "1.0.0",
-    "yargs": "17.5.1"
+    "yargs": "17.7.2"
   },
   "author": "QeeqBox",
   "license": "AGPL-3.0",
